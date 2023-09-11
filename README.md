@@ -30,7 +30,7 @@ Include the use of these different character sets:
 
 ![passwordApp](./pictures/passwordApp.png)
 
-[Link Text](https://github.com/loganlosee/week3PasswordGenerator)
+[git hub repo for app](https://github.com/loganlosee/week3PasswordGenerator)
 
-[Link Text](https://loganlosee.github.io/week3PasswordGenerator/)
+[deployed app link](https://loganlosee.github.io/week3PasswordGenerator/)
 
